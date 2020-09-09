@@ -1,0 +1,24 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  padding: auto auto;
+  margin: auto 10px;
+}
+
+.clock {
+  color: white;
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  flex-flow: row nowrap;
+  align-self: center;
+}
